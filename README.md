@@ -17,9 +17,8 @@ The project consists of a **3-page interactive dashboard** designed to meet the 
 * **Design:** Ensured the dashboard is user-friendly with professional formatting (100% - 400% zoom compatibility).
 
 ## 📂 Project Files
-* `Healthcare_Dashboard.pbix`: The main Power BI report file.
-* `Healthcare_Dataset.xlsx`: The raw dataset used for the analysis.
-* `Screenshots/`: A folder containing images of each dashboard page.
+* `health Care Dashboard.pbix`: The main Power BI report file.
+* `Screenshot page 1,Screenshot page 2,Screenshot page 3`: images of each dashboard page.
 
 ## 🚀 How to Run the Project
 1.  Download the repository.
